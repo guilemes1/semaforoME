@@ -47,7 +47,7 @@ void main(void)
                 delay(1);
                 --t;
                 if(botao() == 1)
-                    t = 3000;
+                    estado = 3;
                 if(t <= 0)
                     estado = 5;
                 break;
