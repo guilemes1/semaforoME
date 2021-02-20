@@ -14,4 +14,4 @@ Nesse projeto realizamos a simulação do semáforo, de modo que o sinal verde p
 
 ## Esquemático do circuito
 
-![alt]()
+![alt](https://raw.githubusercontent.com/guilemes1/semaforoME/master/Esquematico_Semaforo.png)
