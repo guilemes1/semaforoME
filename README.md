@@ -2,7 +2,7 @@
 
 Programa desenvolvido para simular um **Semáforo**, a partir do uso do microcontrolador.
 
-Nesse projeto realizamos a simulação do semáforo, de modo que o sinal verde permaneça sempre acionado, até que o botão pressionado pelo pedestre altere a situação inicial.
+Nesse projeto realizamos a simulação do semáforo, de modo que o sinal verde dos carros e o vermelho dos pedestres permaneçam sempre acionados, até que o botão pressionado pelo pedestre altere a situação inicial estipulada.
 
 * Método utilizado: Máquina de estados
 
